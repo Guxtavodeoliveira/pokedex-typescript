@@ -153,7 +153,7 @@ Atributo privado `pokemons` do tipo `PokemonResumo[]`. Métodos: `adicionar`, `l
 
 ## Organização do Kanban
 
-Link do Kanban: COLE_AQUI_O_LINK
+Link do Kanban: https://trello.com/b/eQT5PmLm/pokedex-typescript-lite
 
 ## Branches utilizadas
 
